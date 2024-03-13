@@ -36,5 +36,5 @@ Este es un microservicio de autenticación desarrollado con Python utilizando el
 4. Ejecuta el servicio:
 
     ```
-    python app.py
+    python run.py
     ```
